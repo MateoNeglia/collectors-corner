@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "The Lord of the Rings: The Motion Picture Trilogy (Extended Editions) [Blu-ray]",
+    "description": "The Quest Is Over: All three extended versions in dazzling 1080p and DTS HD-MA 5.1 Audio. Deluxe set includes over 26 Hours of spellbinding behind-the- moviemaking material, including the Rare Costa Botes documentaries, on 15 discs.",
+    "price": "65.25",
+    "img": "lotred-cover.jpg",
+    "img_large": "lotred-cover-large.jpg",
+    "img_lore": "Portada del set de LOTR blu rays"
+  },
+  {
+    "id": 2,
+    "name": "Digimon Adventure: Last Evolution Kizuna [Blu-ray]",
+    "description": "Join the last adventure of Tai and Agumon! An unprecedented phenomenon occurs and the DigiDestined discover that growing up means an end to their relationships with their Digimon. On top of that, the DigiDestined realize that the more they fight with their Digimon, the faster their bond breaks. Will they fight for others and risk losing? The time to choose and decide is approaching fast. Tai and Agumon, along with the rest, will be forced to risk everything in their epic last adventure.",
+    "price": "12.96",
+    "img": "kizuna-cover.jpg",
+    "img_large": "kizuna-cover-large.jpg",
+    "img_lore": "Portada del blu ray de Digimon"
+  },
+  {
+    "id": 3,
+    "name": "Gurren Lagann: Part 1 (Limited Edition DVD + Artbox + LED Light)",
+    "description": "In his sky-less cavern of a village Simon toils daily, drilling holes to expand his stifling little world until one day he makes an extraordinary discovery, a small glowing drill-bit and the man-sized mecha it activates. Before he can give it a second thought Simon is dragged into a plot to break through to the surface by the local gang leader Kamina, only to have the ceiling come crashing down on top of them under the weight of a giant monster! It somehow falls onto the boisterous Kamina and the cowardly Simon to defend their village but once they defeat the monster what awaits the duo on the surface world? Get ready for buxom babes, beastmen, and giant mecha as only GAINAX can provide them! BUST THROUGH THE HEAVENS WITH YOUR SOUL, GURREN LAGANN!",
+    "price": "300",
+    "img": "box-set-ttgl.jpg",
+    "img_large": "box-set-ttgl-large.jpg",
+    "img_lore": "Box set completo de GUrren Lagann"
+  },
+  {
+    "id": 4,
+    "name": "Digimon Tamers (Digital Monsters Season 3) [DVD] [NTSC]",
+    "description": "Takato Matsuki, Rika Nonaka, and Henry Wong are children who, on one fateful day, received real Digimon, unlike the imaginary ones in the card game they play. Each of the children, or 'Digimon Tamers', have their different views on how Digimon should be treated. But when other Digimon begin to appear around Japan, they must put aside their differences to fend off both the digital intruders and those who seek to destroy all Digimon!",
+    "price": "27.17",
+    "img": "digimon-tamers-cover.jpg",
+    "img_large": "digimon-tamers-cover-large.jpg",
+    "img_lore": "Portada de Digimon Tamers"
+  },
+  {
+    "id": 5,
+    "name": "Underworld Limited Edition 5-movie collection - Set [4K UHD]",
+    "description": "Experience all five films in the iconic Underworld series on Blu-Ray in the ultimate Underworld collection!",
+    "price": "79.98",
+    "img": "box-set-underworld-cover.jpg",
+    "img_large": "box-set-underworld-cover-large.jpg",
+    "img_lore": "Portada del Box set de Underworld"
+  },
+  {
+    "id": 6,
+    "name": "Doctor Who: The Complete David Tennant Collection (Blu-ray)",
+    "description": "Experience all the life of the best Doctor on the screen at the best price. The box contains season 2 to 4 and the specials.",
+    "price": "17.99",
+    "img": "doctor-who-david-tennant-cover.jpg",
+    "img_large": "doctor-who-david-tennant-cover-large.jpg",
+    "img_lore": "Portada de Doctor Who"
+  },
+  {
+    "id": 7,
+    "name": "Battlestar Galactica: The Definitive Collection [Blu-ray]",
+    "description": "The ultimate collection for the classic series that launched one of the most beloved sci-fi franchises of all time, enjoy Battlestar Galactica in both its original television format and in widescreen format for the first time—all in high-definition! Battlestar Galactica: The Original Series: Hopeful for lasting peace following centuries of intense warfare, the Twelve Colonies gather to sign a treaty with their dreaded enemies, the Cylons. But after an act of treachery on the eve of the ceremony, the Cylons launch a devastating surprise attack, destroying the Colonies' home planets and most of their military strength. A lone flagship battlestar, the Galactica, remains to aid the surviving colonists on their epic journey for a new home to a far-off legendary planet—Earth. Galactica 1980: The Complete Series: 30 years after the events of Battlestar Galactica, the original crew finally makes the long-anticipated descent to Earth. With time running out and the Cylons closing in on their trail, Commander Adama and the Galactica must work harder than ever before to help Earth create the technology necessary for battle. Battlestar Galactica: The Original Movie: The original movie that started it all, this theatrical version of the pilot episode includes several alternate scenes different from the televised version.",
+    "price": "79.98",
+    "img": "battlestar-galactica-tdc.jpg",
+    "img_large": "battlestar-galactica-tdc-large.jpg",
+    "img_lore": "Complete Box set of the definitive collection of BTSG"
+  },
+  {
+    "id": 8,
+    "name": "Star Trek: Deep Space Nine: The Complete Series",
+    "description": "The stable wormhole discovered by the Deep Space Nine crew is known to the Bajoran people as the Celestial Temple of their Prophets. Sisko, as discoverer of the wormhole and its inhabitants, is therefore the Emissary of Bajoran prophesy. The wormhole's other end is in the Gamma Quadrant, halfway around the galaxy from Bajor. That section of space is dominated by the malevolent Dominion. The Dominion is led by the Changelings, the race of shapeshifters to which Odo belongs. As of the beginning of the sixth season, Cardassia has joined the Dominion, and together they are waging war on the Federation and their Klingon allies. The war is quickly becoming the most costly war ever for the Federation, and the Deep Space Nine crew must fight to protect their way of life. SCREENED/AWARDED AT: Emmy Awards, ...Star Trek: Deep Space Nine (Complete Series) - 48-DVD Boxset ( Star Trek: DS9 - Complete Series )",
+    "price": "84.88",
+    "img": "star-trek-ds9-complete-series.jpg",
+    "img_large": "star-trek-ds9-complete-series-large.jpg",
+    "img_lore": "Complete series of Star Trek DS9"
+  }
+]

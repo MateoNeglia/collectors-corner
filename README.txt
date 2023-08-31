@@ -1,0 +1,9 @@
+
+
+Lista default de Usuarios:
+ID: 1, EMAIL: 'admin@collector.com', PASSWORD: '1234', 
+ID: 2, EMAIL: 'nullcheck@collector.com', PASSWORD: '123123',
+ID: 3, EMAIL: 'mod1@collector.com', PASSWORD: 'qwer', 
+ID: 4, EMAIL: 'mod2@collector.com', PASSWORD: '12345',
+ID: 5, EMAIL: 'mod3@collector.com', PASSWORD: 'asdf', 
+ID: 6, EMAIL: 'testmail@gmail.com', PASSWORD: '12345', 

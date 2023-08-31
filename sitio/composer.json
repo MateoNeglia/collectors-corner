@@ -1,0 +1,13 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.8",
+        "ext-pdo": "*",
+        "intervention/image": "^2.7"
+    },
+    "autoload": {
+        "psr-0": {
+            "Collector":        "classes/",
+            "Collector\\Auth": "classes/Auth"
+        }
+    }
+}
